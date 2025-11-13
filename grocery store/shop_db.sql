@@ -232,5 +232,5 @@ INSERT INTO `orders` (`user_id`, `name`, `number`, `email`, `method`, `address`,
 
 -- Insert sample messages
 INSERT INTO `message` (`user_id`, `name`, `email`, `number`, `message`) VALUES
-(2, 'Varshitha', 'varshitha@example.com', '9876543210', 'Great platform for local farmers!'),
-(3, 'Rakshitha', 'rakshi@example.com', '8765432109', 'Delivery was fast and quality is good.');
+(2, 'Varshitha', 'varshitha@example.com', '123456789', 'Great platform for local farmers!'),
+(3, 'Rakshitha', 'rakshi@example.com', '987654321', 'Delivery was fast and quality is good.');
